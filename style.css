@@ -1,4 +1,3 @@
-body{
-background-color:#0048B0 ;
-
+#body{
+background-image: linear-gradient(blue , yellow );
 }
